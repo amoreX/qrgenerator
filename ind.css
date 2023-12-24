@@ -1,15 +1,13 @@
 .container{
-    /* transform: translateY(-80px); */
+    transform: translateY(-80px);
     display:flex;
     flex-direction: column;
-    /* justify-content: center;
-    height:100vh; */
+    justify-content: center;
+    height:100vh;
     gap:7px;
-    /* align-items: center; */
+    align-items: center;
     margin-bottom:0px;
-    position:absolute;
-    top:38%;
-    left:50%;
+    
 }
 #qrpic{
     position: absolute;
