@@ -1,5 +1,9 @@
 # qruwu
 
+https://amorex.github.io/qruwu/
+
+
+
 npm install -g browserify
 and then 
 browserify index.js -o bundle.js
