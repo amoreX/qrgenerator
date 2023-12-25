@@ -13,8 +13,8 @@
     position: absolute;
     top:50%;
     left:49%;
-    padding-left:40px;
-    padding-top:200px;
+    height:200px;
+    width:200px;
 }
 
 @media (max-widt:1200px){
