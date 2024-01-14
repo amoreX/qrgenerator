@@ -1,4 +1,4 @@
-# qruwu
+# QRgenerator
 
 https://amorex.github.io/qruwu/
 
